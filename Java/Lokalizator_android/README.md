@@ -1,3 +1,3 @@
-Appka do zaznaczania na mapie Warszawy miejsc do spotkań i piwa. :+1:
+An Android app to place markers on the map of Warsaw for meetings and beer. :+1:
 
-Link do prezentacji: https://www.youtube.com/watch?v=qd5JLx1BE3o
+Presentation: https://www.youtube.com/watch?v=qd5JLx1BE3o
